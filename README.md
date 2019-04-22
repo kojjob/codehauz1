@@ -1,4 +1,4 @@
-#Codehauz Portfolio Application
+# Codehauz Portfolio Application
 
 > This is ruby on rails 5.2 application that allows users to create their own applications. 
 
